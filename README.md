@@ -44,7 +44,7 @@
 
 3. 安装脚本  
    在 Tampermonkey 中点击 **“添加新脚本”**，粘贴以下代码：  
-   或直接访问：
+   或直接访问：[添加脚本](https://greasyfork.org/en/scripts/553111-linuxdo%E4%BF%9D%E6%B4%BB%E4%BC%98%E5%8C%96%E7%89%88-%E9%9D%A2%E6%9D%BF%E6%8E%A7%E5%88%B6)
    ```bash
   https://github.com/namezzy/Linuxdo_Script/blob/master/main.js
 
