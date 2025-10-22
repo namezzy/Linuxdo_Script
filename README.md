@@ -44,10 +44,10 @@
 
 3. 安装脚本  
    在 Tampermonkey 中点击 **“添加新脚本”**，粘贴以下代码：  
-   或直接访问：[添加脚本](https://greasyfork.org/en/scripts/553171-linuxdo%E4%BF%9D%E6%B4%BB%E4%BC%98%E5%8C%96%E7%89%88-%E9%AB%98%E6%80%A7%E8%83%BD%E7%89%88)
+   或直接访问：[点击安装](https://greasyfork.org/en/scripts/553171-linuxdo%E4%BF%9D%E6%B4%BB%E4%BC%98%E5%8C%96%E7%89%88-%E9%AB%98%E6%80%A7%E8%83%BD%E7%89%88)
    ```bash
   https://github.com/namezzy/Linuxdo_Script/blob/master/main.js
 
   ## 界面预览
   ![image-20251019223818409](https://cdn.jsdelivr.net/gh/Levi0219/save-2024@main/image-20251019223818409.png)
-  ## 如果对你有帮助请给一个star，谢谢！
+  ### 如果对你有帮助请给一个star，谢谢！
